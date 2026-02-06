@@ -4,13 +4,12 @@
 
 <p align="left">
   <a href="https://ericreis.dev">
-    <img src="https://img.shields.io/badge/🌐_ericreis.dev-6366F1?style=for-the-badge" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_ericreis.dev-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/eric-mreis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
----
 
 ## 🛠️ Tech Stack
 
@@ -56,14 +55,10 @@ const eric = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
----
-
 ## 🏆 Certifications
 
 - [ClickUp Certified Admin](https://verify.skilljar.com/c/d6747ictzfvr)
 - [ClickUp Certified Expert](https://verify.skilljar.com/c/w45vtp22qbwa)
-
----
 
 ## 🚀 Featured Projects
 
@@ -114,8 +109,6 @@ Built from a real need: a friend with multiple properties and chalets struggled 
 
 </details>
 
----
-
 ### 🎴 Celadon DPT Store — Pokémon Card Management
 > Complete system for one of Brazil's largest Pokémon card resellers — managing products, sales, shipments, and customers.
 
@@ -154,13 +147,9 @@ Built from scratch in 3 months as a freelance project. Full ownership of fronten
 
 </details>
 
----
-
 ## 💼 Work Activity
 
 For my professional contributions, check out my work profile: **[@eric-p3](https://github.com/eric-p3)**
-
----
 
 ## ⚡ Fun Facts
 
@@ -179,9 +168,13 @@ For my professional contributions, check out my work profile: **[@eric-p3](https
 
 <p align="center">
   <sub>📍 Florianópolis, Brazil</sub>
-  <br><br>
+</p>
+
+<p align="center">
   <b>Contact me</b>
-  <br><br>
+</p>
+
+<p align="center">
   <a href="https://ericreis.dev">
     <img src="https://img.shields.io/badge/🌐_ericreis.dev-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
