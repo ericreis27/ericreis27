@@ -2,6 +2,14 @@
 
 **Currently Head of Development at P3rformar** with 3+ years of experience building web systems, APIs, and third-party integrations. I lead the dev team on technical decisions, mentor developers, and work as the senior engineer responsible for delivering products end-to-end — from architecture and backend to frontend and cloud infrastructure.
 
+<p align="left">
+  <a href="https://ericreis.dev">
+    <img src="https://img.shields.io/badge/🌐_ericreis.dev-6366F1?style=for-the-badge" alt="Portfolio">
+  </a>
+  <a href="https://linkedin.com/in/eric-mreis">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 ---
 
 ## 🛠️ Tech Stack
@@ -174,6 +182,9 @@ For my professional contributions, check out my work profile: **[@eric-p3](https
   <br><br>
   <b>Contact me</b>
   <br><br>
+  <a href="https://ericreis.dev">
+    <img src="https://img.shields.io/badge/🌐_ericreis.dev-6366F1?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://linkedin.com/in/eric-mreis">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
